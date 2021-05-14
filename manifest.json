@@ -3,8 +3,8 @@
   "short_name":"Training Modules",
   "start_url":"app/index.html",
   "display":"standalone",
-  "background_color":"#2b6b97",
-  "theme_color":"black",
+  "background_color":"#ffffff",
+  "theme_color":"#2b6b97",
   "scope": ".",
   "description":"This is the training modules for nu: move Group",
     "icons": [
