@@ -1,11 +1,12 @@
 {
-    "name": "Training Modules",
-    "short_name": "Training Modules",
-    "start_url": "/index.html",
-    "scope": "./",
-    "display": "standalone",
-    "background_color": "#2b6b97",
-    "theme_color": "#F4F4F4", 
+  "name":"Training Modules",
+  "short_name":"Training Modules",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background_color":"#2b6b97",
+  "theme_color":"black",
+  "scope": ".",
+  "description":"This is the training modules for nu: move Group",
     "icons": [
       {
         "src": "/img/logo-72x72.png",
