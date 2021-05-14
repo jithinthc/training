@@ -1,6 +1,6 @@
 {
-    "name": "Training Module",
-    "short_name": "Training Module",
+    "name": "Training Modules",
+    "short_name": "Training Modules",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#2b6b97",
