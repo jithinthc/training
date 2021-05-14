@@ -2,11 +2,10 @@
     "name": "Training Modules",
     "short_name": "Training Modules",
     "start_url": "/index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#2b6b97",
     "theme_color": "#F4F4F4", 
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
     "icons": [
       {
         "src": "/img/logo-72x72.png",
