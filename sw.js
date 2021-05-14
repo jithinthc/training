@@ -1,9 +1,9 @@
 const staticCacheName = 'site-static-v1';
 const assets = [
-  '/',
-  '/index.html',
-  '/js/script.js',
-  '/css/style.css',
+  '.',
+  'index.html',
+  'js/script.js',
+  'css/style.css',
   'https://fonts.googleapis.com/css?family=Lato:300,400,700',
 ];
 // install event
