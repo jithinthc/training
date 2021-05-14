@@ -1,7 +1,7 @@
 {
   "name":"Training Modules",
   "short_name":"Training Modules",
-  "start_url":"index.html",
+  "start_url":"app/index.html",
   "display":"standalone",
   "background_color":"#2b6b97",
   "theme_color":"black",
