@@ -1,6 +1,6 @@
 {
-  "name":"nu:move Group Training Modules",
-  "short_name":"nu:move Training",
+  "name":"Training Modules",
+  "short_name":"Training",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#ffffff",
